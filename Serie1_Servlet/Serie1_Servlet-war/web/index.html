@@ -17,15 +17,15 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit thi
     </head>
 
     <body class="p-4">
-        <form>
+        <form action="/Serie1_Servlet-war/Home" method="POST">
             <div class="form-group mb-3">
                 <label for="exampleInputEmail1">Email address</label>
-                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="email@example.com">
+                <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="email@example.com" name="email">
                 <small id="emailHelp" class="form-text text-muted"></small>
             </div>
             <div class="form-group mb-3">
                 <label for="exampleInputPassword1" >Password</label>
-                <input type="password" class="form-control" id="exampleInputPassword1">
+                <input type="password" class="form-control" id="password" name="password">
             </div>
             <button type="submit" class="btn btn-primary" value="submit">Connect</button>
         </form>
