@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://logospng.org/wp-content/uploads/java.png">
+<img src ="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png">
 </p>
 
 ---
