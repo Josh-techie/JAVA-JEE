@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://e7.pngegg.com/pngimages/436/845/png-clipart-java-programming-language-computer-programming-programmer-logo-language-contact-text-logo.png">
+<img src ="https://akdemy.net/wp-content/uploads/2023/04/java.png">
 </p>
 
 ---
@@ -14,6 +14,26 @@ This repository is dedicated to my course titled **PROGRAMMATION JAVA II**. Here
 
 - Check the Resources directory [Resources](./Resources/)
 - Notion as well, were I explain step by step the correction of exercices found in Resources.
+
+---
+
+# Table of Content
+
+- [Introduction-JEE](./Introduction-JEE/) : In this First Project we will be creating our first project using JEE with NETBEANS IDE, I'll be using NetBeans IDE 8.2, and for hosting the application we will be using [GlassFish](https://en.wikipedia.org/wiki/GlassFish) server throughout all the path, so basically this first projects serves as introductory project for setting up the server, getting to know a little bit the sythax of Java classes (Servlet, Static Content (HTML)).
+
+  - The resource to look into are the Following:[JAVA-JEE-Basics](./Resources/TP%20N°1_Composant%20Web_Servlet.pdf)
+  - This Notion page contains a walkthrough of the code I've written for the project. I recommend that you refrain from viewing it until you are prepared to review the answers.
+    > Coming Soon😛 (Or Send me a dm, remind me 😁)
+
+- [JSP-Servlet-Project](./PROJET1_JSP/): This project comprises a series of exercises that cover the fundamentals of using Servlets, JSP, and passing variables through sessions. These exercises are designed with a range of real-world scenarios, progressing from easy to challenging levels.
+
+  - The resource to look into are the Following:[Exercices-JSP-Servlet](./Resources/TP%20N°2_Composant%20Web_JSP.pdf)
+  - This Notion page contains a walkthrough of the code I've written for the project. I recommend that you refrain from viewing it until you are prepared to review the answers.
+    > Coming Soon😛 (Or Send me a dm, remind me 😁)
+
+- [Assignement-JEE](./Assignement/): This project is a sum up of all what we've covered so far from previous project, session handling, JSP, Servlets...
+  - Refer to [Assignement-JEE](./Resources/TP_Evaluation%20JAVA%20II_2023_2024.pdf)
+    > Notion page Coming Soon😛 (Or Send me a dm, remind me 😁)
 
 ---
 
