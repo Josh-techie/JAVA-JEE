@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png">
+<img src ="https://e7.pngegg.com/pngimages/436/845/png-clipart-java-programming-language-computer-programming-programmer-logo-language-contact-text-logo.png">
 </p>
 
 ---
