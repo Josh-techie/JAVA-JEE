@@ -12,25 +12,39 @@
         <title>Display Numbers </title>
     </head>
     <body>
-        <table border="2">
-            <%
-                 // int n = 5;
-                  String n = request.getParameter("number");
-                  
-                  // dont forget we need to parse because the getParam returns a string
-                  int number = Integer.parseInt(n);
-                // loop through the nbrs 
+        <form action="/PROJET1_JSP-war/displaynbr.jsp" method="post">
+            <div class="p-3"> 
+                <label for="number" class="form-label">Number</label>
+                <input type="number" id="number" name="number" class="form-control">
+                <input type="submit" value="Submit">
+            </div>  
+        </form>
+        <br>
+        
+        <%
+            String n = request.getParameter("number");
+            if (n == null || n.isEmpty()) {
+        %>
+            <p>Please provide a value in the input.</p>
+        <%
+            } else {
+                int number = Integer.parseInt(n);
+                // loop through the numbers 
                 for (int i = 1; i <= number; i++) {
-            %>
-            <tr>
-                <td>
-                    Number
-                </td>
-                <td>
-                    <%= i %>
-                </td>
-            </tr>
-            <%} %> 
-        </table>
+        %>
+            <table border="2">
+                <tr>
+                    <td>
+                        Number
+                    </td>
+                    <td>
+                        <%= i %>
+                    </td>
+                </tr>
+            </table>
+        <%
+                }
+            }
+        %>
     </body>
 </html>
