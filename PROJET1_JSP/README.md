@@ -27,8 +27,7 @@
 <p align="center">
 
 > Number Displayer 🍂
-> <img src="../Resources/Images/project1-1.png" alt="2">
-> <img src="../Resources/Images/project1-2.png" alt="3">
+> <img src="../Resources/Images/project1-1.png" alt="2"> > <img src="../Resources/Images/project1-2.png" alt="3">
 
 </p>
 
@@ -49,7 +48,22 @@
 <p align="center">
 
 > Personnalized greeting ⭐
-> <img src="../Resources/Images/project4-1.png" alt="3">
-> <img src="../Resources/Images/project4-2.png" alt="3">
+> <img src="../Resources/Images/project4-1.png" alt="3"> > <img src="../Resources/Images/project4-2.png" alt="3">
+
+</p>
+
+<p align="center">
+
+> Table Multiplication Styled ⭐
+> <img src="../Resources/Images/project5-1.png" alt="3">
+> We inputed 43, maybe needs more styling and fixing 🐬
+> <img src="../Resources/Images/project5-2.png" alt="3">
+
+</p>
+
+<p align="center">
+
+> Loops Even Factorial Numbers 📖
+> <img src="../Resources/Images/project6-1.png" alt="3">
 
 </p>
