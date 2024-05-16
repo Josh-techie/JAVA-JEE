@@ -31,12 +31,16 @@
 
 <h2> Project Showcase </h2>
 
-- In this section, I'll showcase the final project output. Just take a seat and Explore the screens and functionalities implemented in the Struts Introduction Project. 🚀
-  [img-struts-1](../Resources/Images/Struts-1.png)
-  [img-struts-2](../Resources/Images/Struts-2.png)
-  [img-struts-3](../Resources/Images/Struts-3.png)
+<p>In this section, I'll showcase the final project output. Just take a seat and explore the screens and functionalities implemented in the Struts Introduction Project. 🚀</p>
+
+<p align="center">
+  <img src="../Resources/Images/Struts-1.png" alt="Struts Image 1">
+  <img src="../Resources/Images/Struts-2.png" alt="Struts Image 2">
+  <img src="../Resources/Images/Struts-3.png" alt="Struts Image 3">
+</p>
 
 ---
+
 
 <h1> Author </h1>
 
