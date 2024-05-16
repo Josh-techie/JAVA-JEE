@@ -8,8 +8,7 @@
 
 - For the pdf document that has the exercice statement please refer to [Exercices-JSP-Servlet](../Resources/Work-Series/TP%20N°2_Composant%20Web_JSP.pdf) 😊
 
-- As for the `walkthough`, there's none for this as it's just an introduction, we're not really following an exercice 😅
-  > Maybe, I have I'll have to llok for it later !
+- As for the `walkthrough`, here, I have created a `PDF` that will serve as a guide through the various exercises found in the exercise document linked above! 🦈 [JSP-Servlet-Doc](../Resources/My-Docs/JSP-Servlet-Project-Doc.pdf)
 
 ---
 
