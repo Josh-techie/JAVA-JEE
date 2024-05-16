@@ -18,7 +18,38 @@
 <p>In this section, I'll showcase the final project output. Just take a seat and explore the screens and functionalities implemented in the Struts Introduction Project. 🚀</p>
 
 <p align="center">
-  <img src="../Resources/Images/project-exercices.png" alt="Index.1">
-  <img src="../Resources/Images/project1-1.png" alt="2">
-  <img src="../Resources/Images/project1-2.png" alt="3">
+
+> Index, page ( Home )
+> <img src="../Resources/Images/project-exercices.png" alt="Index.1">
+
+</p>
+
+<p align="center">
+
+> Number Displayer 🍂
+> <img src="../Resources/Images/project1-1.png" alt="2">
+> <img src="../Resources/Images/project1-2.png" alt="3">
+
+</p>
+
+<p align="center">
+
+> Hi, goodbye 🍂 (status is set to true => Hello Friend)
+> <img src="../Resources/Images/project2-1.png" alt="3">
+
+</p>
+
+<p align="center">
+
+> Date Displayer 🍂 (Display current date 🍀)
+> <img src="../Resources/Images/project3-1.png" alt="3">
+
+</p>
+
+<p align="center">
+
+> Personnalized greeting ⭐
+> <img src="../Resources/Images/project4-1.png" alt="3">
+> <img src="../Resources/Images/project4-2.png" alt="3">
+
 </p>
