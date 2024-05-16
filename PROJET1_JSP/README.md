@@ -67,3 +67,12 @@
 > <img src="../Resources/Images/project6-1.png" alt="3">
 
 </p>
+
+<p align="center">
+
+> Calculator 🏁
+> <img src="../Resources/Images/project7-1.png" alt="3">
+> After inputing 23 and 15 and choosing Addition 🦈
+> <img src="../Resources/Images/project7-2.png" alt="3">
+
+</p>
