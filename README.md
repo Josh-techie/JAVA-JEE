@@ -38,11 +38,13 @@ This repository is dedicated to my course titled **PROGRAMMATION JAVA II**. Here
 
 - [Hibernate-Introduction](./Hibernate-Introduction): In this first project, I'll dive into the world of Object-Relational Mapping (ORM) with Hibernate. I will start by setting up a Hibernate configuration file and creating my first Hibernate entity linked to a Relational DB. Basically I will create a CRUD web app (Create, Read, Update, Delete) operations using Hibernate Framework. But take it easy in this project, I may not implement all the CRUD operations, but don't worry a next to come project where I will implement all the CRUD operations. 😁
 
+- [Struts-Introduction](./Struts-Introduction/): Join me in exploring the exciting world of web development with Struts! In this initial project, we'll dive into setting up Struts configuration, creating our first Struts action, and mastering efficient user request handling. Get ready for an exhilarating journey into Struts development! 💻🚀
+
 ---
 
 # Author
 
-- [`@Josh-techie`]() | Software Engineer Student
+- [`@Josh-techie`](https://github.com/Josh-techie) | Software Engineer Student
 
   > Reach out to me if you need any help or have any questions.
 
