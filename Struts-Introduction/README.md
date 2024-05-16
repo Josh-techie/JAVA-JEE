@@ -4,9 +4,37 @@
 
 ---
 
-Struts
+<h2> STRUTS INTRO </h2>
 
-Introduction to struts man!
+- Welcome to the Struts Introduction Project! This project serves as an introduction to the Struts framework, offering you the opportunity to learn and practice essential skills in web development with Java. Throughout this project, you will gain familiarity with Struts and its core concepts, equipping you with the knowledge to build robust web applications efficiently.
+  Introduction to struts man!
+
+---
+
+<h2> Skills You'll Learn  </h2>
+
+- Understanding the fundamentals of the Struts framework
+- Implementing MVC (Model-View-Controller) architecture in Java web applications
+- Handling user requests and responses effectively
+- Managing form submissions and data validation
+- Integrating Struts with other technologies like JSP (JavaServer Pages) and Servlets
+
+---
+
+<h2> Resources </h2>
+
+- You can find my wlakthough of the project at: [Strut-Intro-Doc](../Resources/My-Docs/Strut-Doc.pdf) 🌟
+
+- As for the `pdf` question, there's none for this as it's just an introduction, we're not really following an exercice 😅
+
+---
+
+<h2> Project Showcase </h2>
+
+- In this section, I'll showcase the final project output. Just take a seat and Explore the screens and functionalities implemented in the Struts Introduction Project. 🚀
+  [img-struts-1](../Resources/Images/Struts-1.png)
+  [img-struts-2](../Resources/Images/Struts-2.png)
+  [img-struts-3](../Resources/Images/Struts-3.png)
 
 ---
 
