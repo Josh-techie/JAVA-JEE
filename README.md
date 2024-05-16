@@ -25,7 +25,7 @@ This repository is dedicated to my course titled **PROGRAMMATION JAVA II**. Here
   - This Notion page contains a walkthrough of the code I've written for the project. I recommend that you refrain from viewing it until you are prepared to review the answers.
     > Coming Soon😛 (Or Send me a dm, remind me 😁)
 
-- [JSP-Servlet-Project](./PROJET1_JSP/): This project comprises a series of exercises that cover the fundamentals of using Servlets, JSP, and passing variables through sessions. These exercises are designed with a range of real-world scenarios, progressing from easy to challenging levels.
+- [JSP-Servlet-Project](./JSP-Servlet-Project/): This project comprises a series of exercises that cover the fundamentals of using Servlets, JSP, and passing variables through sessions. These exercises are designed with a range of real-world scenarios, progressing from easy to challenging levels.
 
   - The resource to look into are the Following: [Exercices-JSP-Servlet](./Resources/Work-Series/TP%20N°2_Composant%20Web_JSP.pdf)
   - This Notion page contains a walkthrough of the code I've written for the project. I recommend that you refrain from viewing it until you are prepared to review the answers.
